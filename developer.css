@@ -7,6 +7,16 @@ body {
     animation: body 1s infinite alternate;
 }
 
+.workout {
+    transition: color .2s linear;
+}
+
+.workout:hover {
+    color: #129252;
+    transform: scale(1.5, 1.5);
+    cursor: pointer;
+}
+
 @keyframes body {
     10% {
         color: #f2ff37;
