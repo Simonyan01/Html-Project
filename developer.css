@@ -2,7 +2,7 @@ body {
     font-family: 'Noto Serif', serif;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    background-image: url("/Html-Project2/image/kEGp7h.jpg");
+    background-image: url("/image/kEGp7h.jpg");
     color: #fff537;
     animation: body 1s infinite alternate;
 }
@@ -21,7 +21,6 @@ body {
     10% {
         color: #f2ff37;
     }
-
     20% {
         color: #129252;
     }
